@@ -1,0 +1,4 @@
+requests
+responses
+beautifulsoup4
+lxml
